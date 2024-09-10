@@ -13,11 +13,11 @@ In the past few years, I’ve had the opportunity to work on diverse projects th
 
 # 💡 What I Do
 Data Science: Building data models, wrangling large datasets, and deriving insights.
-![Cars Analysis](assests/pexels-photo.jpeg.jpg)
+![Cars Analysis](assests/pexels-photo.jpeg)
 
 Research in Collective Intelligence: Exploring the relationship between innovation and team composition.
 Here’s a glimpse into some of the work I've done:
-![Cars Analysis](assests/team_comp.jpg)
+![Cars Analysis](assests/team_comp.jpeg)
 
 # 🔬 Projects
 Genomic Clustering (April 2024)
