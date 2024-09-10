@@ -13,8 +13,11 @@ In the past few years, I’ve had the opportunity to work on diverse projects th
 
 # 💡 What I Do
 Data Science: Building data models, wrangling large datasets, and deriving insights.
+![Cars Analysis](assests/pexels-photo.jpeg.jpg)
+
 Research in Collective Intelligence: Exploring the relationship between innovation and team composition.
 Here’s a glimpse into some of the work I've done:
+![Cars Analysis](assests/team_comp.jpg)
 
 # 🔬 Projects
 Genomic Clustering (April 2024)
@@ -24,10 +27,10 @@ Land Cover Classification in Casablanca (April - June 2023)
 Applied geospatial analysis and machine learning to classify land cover, assisting urban planning initiatives.
 
 # 🎓 Education
-Master's in Collective Intelligence, Data Science Specialization
+- Master's in Collective Intelligence, Data Science Specialization
 Mohammed VI Polytechnic University, 2023 - 2025
 
-Bachelor of Computer Science
+- Bachelor of Computer Science
 Chouaib Doukkali University, 2020 - 2023
 
 # 🛠️ Skills
