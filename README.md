@@ -14,10 +14,11 @@ In the past few years, I’ve had the opportunity to work on diverse projects th
 # 💡 What I Do
 
 **Data Science**: Building data models, wrangling large datasets, and deriving insights.  
+
 ![DS](assests/pexels-photo.jpeg)
 
 **Research in Collective Intelligence**: Exploring the relationship between innovation and team composition.  
-Here’s a glimpse into some of the work I've done:  
+
 ![Team Composition Innovation](assests/team_comp.jpeg)
 
 
