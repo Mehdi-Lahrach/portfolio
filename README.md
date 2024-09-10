@@ -3,7 +3,7 @@ Data Scientist | Collective Intelligence
 
 I'm a data enthusiast passionate about leveraging the power of data to drive innovation and solve complex problems. Whether it’s through machine learning models, statistical analysis, or data storytelling, my goal is to contribute to creating a more data-driven future.
 
-![Cars Analysis](/assets/Longest-Lasting-Cars_Shareable.jpg)
+![Cars Analysis](assets/Longest-Lasting-Cars_Shareable.jpg)
 
 ## 🚀 About Me
 Currently pursuing a Master’s in Collective Intelligence at Mohammed VI Polytechnic University, I have a solid foundation in computer science and data analysis. I’m particularly interested in social behaviors,  analysis, and forecasting models.
