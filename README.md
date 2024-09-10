@@ -12,12 +12,15 @@ Currently pursuing a Master’s in Collective Intelligence at Mohammed VI Polyte
 In the past few years, I’ve had the opportunity to work on diverse projects that push the boundaries of machine learning, data science, and data visualization. I enjoy creating impactful solutions by extracting insights from messy datasets and communicating them effectively.
 
 # 💡 What I Do
+
 **Data Science**: Building data models, wrangling large datasets, and deriving insights.  
 <img src="assests/pexels-photo.jpeg" alt="DS" width="200" align="left">
 
-**Research in Collective Intelligence**: Exploring the relationship between innovation and team composition. 
+**Research in Collective Intelligence**: Exploring the relationship between innovation and team composition.  
+Here’s a glimpse into some of the work I've done:  
 <img src="assests/team_comp.jpeg" alt="Team Composition Innovation" width="200" align="left">
 
+<br clear="left"/>
 
 # 🔬 Projects
 Genomic Clustering (April 2024)
