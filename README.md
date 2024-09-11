@@ -33,7 +33,7 @@ Mohammed VI Polytechnic University, 2023 - 2025
 - Bachelor of Computer Science
 Chouaib Doukkali University, 2020 - 2023
 
-# 🛠️ Skills
+## 🛠️ Skills
 - Languages: Python, SQL, Java, C++, JavaScript
 - Frameworks & Tools: Pandas, NumPy, Scikit-learn, ggplot2, Jupyter Notebooks
 - Soft Skills: Analytical thinking, problem-solving, critical thinking
