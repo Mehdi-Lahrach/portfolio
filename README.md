@@ -37,9 +37,9 @@ Mohammed VI Polytechnic University, 2023 - 2025
 Chouaib Doukkali University, 2020 - 2023
 
 # 🛠️ Skills
-Languages: Python, SQL, Java, C++, JavaScript
-Frameworks & Tools: Pandas, NumPy, Scikit-learn, ggplot2, Jupyter Notebooks
-Soft Skills: Analytical thinking, problem-solving, critical thinking
+- Languages: Python, SQL, Java, C++, JavaScript
+- Frameworks & Tools: Pandas, NumPy, Scikit-learn, ggplot2, Jupyter Notebooks
+- Soft Skills: Analytical thinking, problem-solving, critical thinking
 
 # 🏆 Achievements
 2nd Place, Fintech Hackathon by Mastercard and ACC (November 2023)
