@@ -47,7 +47,7 @@ Chouaib Doukkali University, 2020 - 2023
 - **Email**: [elmehdi.lahrach@um6p.ma](mailto:elmehdi.lahrach@um6p.ma)
 - **LinkedIn**: [El Mehdi Lahrach](https://www.linkedin.com/in/mehdi-lahrach/)
 - **GitHub**: [github.com/elmehdi-lahrach](https://github.com/Mehdi-Lahrach)
-- **Medium**: [kaggle.com/your-kaggle-profile](https://medium.com/@mehdilahrach89)
+- **Medium**: [medium.com/@mehdilahrach89](https://medium.com/@mehdilahrach89)
 
 Feel free to reach out if you have any questions, or collaboration ideas, or just want to connect!
 
