@@ -41,3 +41,13 @@ Chouaib Doukkali University, 2020 - 2023
 ## 🏆 Achievements
 - 2nd Place, Fintech Hackathon by Mastercard and ACC (November 2023)
 - 4th Place, AI for Disaster Risk Reduction at Unleash Hackathon (March 2024)
+
+## 📫 Contact Me
+
+- **Email**: [elmehdi.lahrach@um6p.ma](mailto:elmehdi.lahrach@um6p.ma)
+- **LinkedIn**: [El Mehdi Lahrach](https://www.linkedin.com/in/mehdi-lahrach/)
+- **GitHub**: [github.com/elmehdi-lahrach](https://github.com/Mehdi-Lahrach)
+- **Medium**: [kaggle.com/your-kaggle-profile](https://medium.com/@mehdilahrach89)
+
+Feel free to reach out if you have any questions, or collaboration ideas, or just want to connect!
+
