@@ -39,5 +39,5 @@ Chouaib Doukkali University, 2020 - 2023
 - Soft Skills: Analytical thinking, problem-solving, critical thinking
 
 ## 🏆 Achievements
--c2nd Place, Fintech Hackathon by Mastercard and ACC (November 2023)
+- 2nd Place, Fintech Hackathon by Mastercard and ACC (November 2023)
 - 4th Place, AI for Disaster Risk Reduction at Unleash Hackathon (March 2024)
